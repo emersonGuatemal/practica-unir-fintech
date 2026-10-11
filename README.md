@@ -12,3 +12,9 @@ python3 main.py <filename> <dup>
   filename: **ruta** al fichero que contiene la lista de palabras, una por línea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 # Ejercicio actividad 1 - Grupo13 - Aministrador Emerson Guatemal
+Actividad1 Entornos de Integracion y Entrega COntinua:Actualización del README realizada por Fredi García.
+  Actualizacion del archivo README.md usuario Yazmin88.
+
+
+## Contribution - Erick Iza 
+## Trabajo grupal
